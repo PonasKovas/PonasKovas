@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  <h3>Mykolas Peteraitis</h3>
+  <img src="https://img.shields.io/badge/chat-Ponas%233522-brightgreen?style=for-the-badge&logo=discord&logoColor=white">
+</div>
 
-<!--
-**PonasKovas/PonasKovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  I love writing low-level and efficient code, optimizing, designing efficient systems and structures.<br />
+  <br />
+  Love Rust.<br />
+  ❤️
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PonasKovas&show_icons=true&theme=tokyonight"><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonasKovas&layout=compact&theme=tokyonight">
+</div>
+
+<br />
+<br />
+
+<div align="right" style="font-size: 16px">
+  <a href="mailto:mykolas.peteraitis@gmail.com"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/53092/envelope-emoji-clipart-md.png" width="16px"> Email me</a>
+</div>
