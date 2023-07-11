@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Mykolas Peteraitis</h3>
-  <img src="https://img.shields.io/badge/chat-Ponas%233522-brightgreen?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://discord.com/users/272270950358188033"><img src="https://dcbadge.vercel.app/api/shield/272270950358188033"></a>
 </div>
 
 ---
