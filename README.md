@@ -6,10 +6,14 @@
 ---
 
 <div align="center">
-  I love writing low-level and efficient code, optimizing, designing efficient systems and structures.<br />
+  Things I love<br />
   <br />
-  Love Rust.<br />
-  ❤️
+  Rust<br />
+  AI<br />
+  Linux<br />
+  ❤️<br />
+  <br />
+  Looking for a job
 </div>
 
 ---
