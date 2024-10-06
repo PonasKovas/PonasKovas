@@ -13,6 +13,7 @@
   Linux<br />
   ❤️<br />
   <br />
+  Currently studying electronics engineering.<br />
   Looking for a job
 </div>
 
