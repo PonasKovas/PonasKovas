@@ -6,12 +6,7 @@
 ---
 
 <div align="center">
-  Things I love<br />
-  <br />
-  Rust<br />
-  AI<br />
-  Linux<br />
-  ❤️<br />
+  <img src="image.jpg">
   <br />
   Currently studying electronics engineering.<br />
   Looking for a job
