@@ -9,7 +9,7 @@
   <img src="image.jpg">
   <br />
   Currently studying electronics engineering.<br />
-  Looking for a job
+  Open to job offers
 </div>
 
 ---
