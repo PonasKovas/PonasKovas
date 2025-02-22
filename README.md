@@ -6,8 +6,7 @@
 ---
 
 <div align="center">
-  Currently studying electronics engineering.<br />
-  Open to job offers
+  Currently studying electronics engineering.
 </div>
 
 ---
