@@ -6,8 +6,6 @@
 ---
 
 <div align="center">
-  <img src="image.jpg">
-  <br />
   Currently studying electronics engineering.<br />
   Open to job offers
 </div>
