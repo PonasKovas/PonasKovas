@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Mykolas Peteraitis</h3>
-  <a href="https://discord.com/users/272270950358188033"><img src="https://dcbadge.vercel.app/api/shield/272270950358188033"></a>
+  <a href="https://discord.com/users/272270950358188033"><img src="https://dcbadge.limes.pink/api/shield/272270950358188033"></a>
 </div>
 
 ---
