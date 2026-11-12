@@ -11,15 +11,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PonasKovas&show_icons=true&theme=tokyonight"><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonasKovas&layout=compact&theme=tokyonight">
-</div>
 
 <br />
 <br />
 
 <div align="right" style="font-size: 16px">
-  <a href="mailto:mykolas.peteraitis@gmail.com"><img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/53092/envelope-emoji-clipart-md.png" width="16px"> Email me</a>
+  <a href="mailto:mykolas.peteraitis@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/542/542689.png" width="16px"> Email me</a>
 </div>
 
